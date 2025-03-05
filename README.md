@@ -11,7 +11,7 @@ Run `bazel build @com_github_grpc_grpc//src/proto/grpc/testing:empty_py_pb2_grpc
 
 Interesting case, for example `bazel build @com_github_grpc_grpc//src/python/grpcio_health_checking/grpc_health/v1:health_py_pb2_grpc` works fine.
 
-### GRPC version 1.58.0
+### GRPC version 1.57.1
 
 Uncomment the `http_archive` in the `WORKSPACE` and run the following commands
 
